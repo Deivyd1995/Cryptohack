@@ -1,0 +1,15 @@
+DECIFRAR ASCII :
+
+ASCII (American Standard Code for Information Interchange) es un conjunto de códigos que asigna representaciones numéricas a caracteres y símbolos. Es un estándar que permite la comunicación entre computadoras y otros dispositivos electrónicos. Cada carácter en el conjunto ASCII está representado por un número decimal que va del 0 al 127.
+
+En el conjunto ASCII, los primeros 32 caracteres (del 0 al 31) y el último (127) son caracteres de control, que no son imprimibles y se utilizan para funciones especiales. Los caracteres imprimibles, como letras, números y símbolos, se encuentran en la gama del 32 al 126.
+
+Por ejemplo:
+
+El código ASCII para la letra 'A' es 65.
+El código ASCII para el número '1' es 49.
+El código ASCII para el símbolo de dólar '$' es 36.
+
+En Python, la función chr() se puede utilizar para convertir un número ordinal ASCII en un carácter (la función ord() hace lo contrario).
+
+-- ----------------------------------------------------------------------------------------------------------- --
